@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Keep Notes</string>
+    <string name="note_title">Note Title:</string>
+    <string name="heading_hint">Enter note heading</string>
+    <string name="notes_content">Add Contents:</string>
+    <string name="contents_et_hint">Write here...</string>
+    <string name="add_btn">Add Note</string>
+    <string name="button_back">Back</string>
+    <string name="change_title_hint">Change title here.</string>
+    <string name="modify_content_et">Modify Content:</string>
+    <string name="update_btn_txt">Update</string>
+</resources>
